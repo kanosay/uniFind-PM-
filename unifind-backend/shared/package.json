@@ -1,0 +1,23 @@
+{
+  "name": "@unifind/shared",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./config": "./src/config.js",
+    "./db": "./src/db.js",
+    "./errors": "./src/errors.js",
+    "./auth": "./src/auth.js",
+    "./audit": "./src/audit.js",
+    "./service": "./src/service.js",
+    "./validate": "./src/validate.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.0"
+  }
+}

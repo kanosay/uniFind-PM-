@@ -1,0 +1,1223 @@
+{
+  "meta": {
+    "title": "Universities in Prague and their faculties / academic units",
+    "as_of": "2026-11-11",
+    "sources": [
+      "Czech Ministry of Education (MŠMT) – Register of Higher Education Institutions (regvssp.msmt.cz), Prague region",
+      "Annual reports (2023–2025) and websites of the individual universities"
+    ],
+    "note": "All higher education institutions seated in Prague according to MŠMT. Every university has at least one unit. Field unit_type: 'Faculty' = formal faculty; universities without faculties list their departments, studios, institutes, schools or (where nothing else is published) study programmes."
+  },
+  "universities": [
+    {
+      "name": "Charles University",
+      "abbreviation": "UK",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Ovocný trh 560/5, Prague 1",
+      "website": "https://cuni.cz",
+      "has_faculties": true,
+      "faculty_count": 17,
+      "unit_count": 17,
+      "faculties": [
+        {
+          "name": "Catholic Theological Faculty",
+          "abbreviation": "KTF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Protestant Theological Faculty",
+          "abbreviation": "ETF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Hussite Theological Faculty",
+          "abbreviation": "HTF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Law",
+          "abbreviation": "PF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "First Faculty of Medicine",
+          "abbreviation": "1. LF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Second Faculty of Medicine",
+          "abbreviation": "2. LF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Third Faculty of Medicine",
+          "abbreviation": "3. LF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Medicine in Pilsen",
+          "abbreviation": "LFP",
+          "city": "Pilsen",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Medicine in Hradec Králové",
+          "abbreviation": "LFHK",
+          "city": "Hradec Králové",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Pharmacy in Hradec Králové",
+          "abbreviation": "FaF",
+          "city": "Hradec Králové",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Arts",
+          "abbreviation": "FF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Science",
+          "abbreviation": "PřF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Mathematics and Physics",
+          "abbreviation": "MFF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Education",
+          "abbreviation": "PedF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Social Sciences",
+          "abbreviation": "FSV",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Physical Education and Sport",
+          "abbreviation": "FTVS",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Humanities",
+          "abbreviation": "FHS",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "17 faculties: 14 in Prague, 1 in Pilsen, 2 in Hradec Králové."
+    },
+    {
+      "name": "Czech Technical University in Prague",
+      "abbreviation": "ČVUT",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Jugoslávských partyzánů 1580/3, Prague 6",
+      "website": "https://www.cvut.cz",
+      "has_faculties": true,
+      "faculty_count": 8,
+      "unit_count": 8,
+      "faculties": [
+        {
+          "name": "Faculty of Civil Engineering",
+          "abbreviation": "FSv",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Mechanical Engineering",
+          "abbreviation": "FS",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Electrical Engineering",
+          "abbreviation": "FEL",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Nuclear Sciences and Physical Engineering",
+          "abbreviation": "FJFI",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Architecture",
+          "abbreviation": "FA",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Transportation Sciences",
+          "abbreviation": "FD",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Biomedical Engineering",
+          "abbreviation": "FBMI",
+          "city": "Kladno",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Information Technology",
+          "abbreviation": "FIT",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "Besides faculties it also has university institutes (e.g. Masaryk Institute of Advanced Studies, CIIRC, IEAP, Klokner Institute)."
+    },
+    {
+      "name": "Prague University of Economics and Business",
+      "abbreviation": "VŠE",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Square W. Churchilla 1938/4, Prague 3",
+      "website": "https://www.vse.cz",
+      "has_faculties": true,
+      "faculty_count": 6,
+      "unit_count": 6,
+      "faculties": [
+        {
+          "name": "Faculty of Finance and Accounting",
+          "abbreviation": "FFÚ",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of International Relations",
+          "abbreviation": "FMV",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Business Administration",
+          "abbreviation": "FPH",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Informatics and Statistics",
+          "abbreviation": "FIS",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Economics",
+          "abbreviation": "NF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Management",
+          "abbreviation": "FM",
+          "city": "Jindřichův Hradec",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "The Faculty of Management is located in Jindřichův Hradec."
+    },
+    {
+      "name": "Czech University of Life Sciences Prague",
+      "abbreviation": "ČZU",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Kamýcká 129, Prague 6 – Suchdol",
+      "website": "https://www.czu.cz",
+      "has_faculties": true,
+      "faculty_count": 6,
+      "unit_count": 6,
+      "faculties": [
+        {
+          "name": "Faculty of Economics and Management",
+          "abbreviation": "PEF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Agrobiology, Food and Natural Resources",
+          "abbreviation": "FAPPZ",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Engineering",
+          "abbreviation": "TF",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Forestry and Wood Sciences",
+          "abbreviation": "FLD",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Environmental Sciences",
+          "abbreviation": "FŽP",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Tropical AgriSciences",
+          "abbreviation": "FTZ",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "The Faculty of Economics and Management also runs regional consultation centres (Cheb, Most, Klatovy, etc.)."
+    },
+    {
+      "name": "University of Chemistry and Technology, Prague",
+      "abbreviation": "VŠCHT",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Technická 5, Prague 6",
+      "website": "https://www.vscht.cz",
+      "has_faculties": true,
+      "faculty_count": 4,
+      "unit_count": 4,
+      "faculties": [
+        {
+          "name": "Faculty of Chemical Technology",
+          "abbreviation": "FCHT",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Environmental Technology",
+          "abbreviation": "FTOP",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Food and Biochemical Technology",
+          "abbreviation": "FPBT",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Chemical Engineering",
+          "abbreviation": "FCHI",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "name": "Academy of Performing Arts in Prague",
+      "abbreviation": "AMU",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Malostranské Square 259/12, Prague 1",
+      "website": "https://www.amu.cz",
+      "has_faculties": true,
+      "faculty_count": 3,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "Theatre Faculty",
+          "abbreviation": "DAMU",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Film and TV School",
+          "abbreviation": "FAMU",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Music and Dance Faculty",
+          "abbreviation": "HAMU",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": ""
+    },
+    {
+      "name": "Academy of Fine Arts in Prague",
+      "abbreviation": "AVU",
+      "type": "Public",
+      "category": "University-type",
+      "address": "U Akademie 172/4, Prague 7",
+      "website": "https://www.avu.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 20,
+      "faculties": [
+        {
+          "name": "Painting Studio 1",
+          "abbreviation": "MAL1",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Painting Studio 2",
+          "abbreviation": "MAL2",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Painting Studio 3",
+          "abbreviation": "MAL3",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Painting Studio 4",
+          "abbreviation": "MAL4",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Sculpture Studio 1",
+          "abbreviation": "SOCH1",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Sculpture Studio 2",
+          "abbreviation": "SOCH2",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Figurative Sculpture and Medal Studio",
+          "abbreviation": "SOCHF",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Printmaking Studio 1",
+          "abbreviation": "GRA1",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Printmaking Studio 2",
+          "abbreviation": "GRA2",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Drawing Studio",
+          "abbreviation": "KRES",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Intermedia Studio 1",
+          "abbreviation": "INTM1",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Intermedia Studio 2",
+          "abbreviation": "INTM2",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Intermedia Studio 3",
+          "abbreviation": "INTM3",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "New Media Studio 1",
+          "abbreviation": "NOV1",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "New Media Studio 2",
+          "abbreviation": "NOV2",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Painting Restoration Studio",
+          "abbreviation": "RESTM",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Sculpture Restoration Studio",
+          "abbreviation": "RESTS",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Architecture Studio",
+          "abbreviation": "ARCH",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Art in Context (EN programme)",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        },
+        {
+          "name": "Department of Art History and Theory",
+          "abbreviation": "KTDU",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "Not divided into faculties. Teaching takes place in 18 studios plus the Department of Art History and Theory."
+    },
+    {
+      "name": "Academy of Arts, Architecture and Design in Prague",
+      "abbreviation": "UMPRUM",
+      "type": "Public",
+      "category": "University-type",
+      "address": "Square Jana Palacha 80, Prague 1",
+      "website": "https://www.umprum.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 7,
+      "faculties": [
+        {
+          "name": "Department of Architecture",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Design",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Fine Arts",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Applied Arts I",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Applied Arts II",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Graphic Design",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Art Theory and History",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "Not divided into faculties – departments group the studios (e.g. Architecture I–IV, Product Design, Glass, Ceramics and Porcelain, Textile, Illustration and Graphics, Animation and Film, Photography II)."
+    },
+    {
+      "name": "Police Academy of the Czech Republic in Prague",
+      "abbreviation": "PA ČR",
+      "type": "State",
+      "category": "University-type",
+      "address": "Lhotecká 559/7, Prague 12 – Kamýk",
+      "website": "https://www.polac.cz",
+      "has_faculties": true,
+      "faculty_count": 2,
+      "unit_count": 2,
+      "faculties": [
+        {
+          "name": "Faculty of Security and Law",
+          "abbreviation": "FBP",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Security Management",
+          "abbreviation": "FBM",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "State university under the Ministry of the Interior."
+    },
+    {
+      "name": "Pan-European University",
+      "abbreviation": "PEUNI",
+      "type": "Private",
+      "category": "University-type",
+      "address": "U vinných sklepů 1062/11, Prague 9 – Vysočany",
+      "website": "https://www.peuni.cz",
+      "has_faculties": true,
+      "faculty_count": 3,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "Faculty of Business and Law",
+          "abbreviation": "",
+          "city": "Prague / Ostrava",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Aviation and Transport",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Security Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "Three faculties since 2025/26; previously two faculties (former College of Entrepreneurship and Law and former University College of Business in Prague). Also a site in Ostrava."
+    },
+    {
+      "name": "University of Finance and Administration",
+      "abbreviation": "VŠFS",
+      "type": "Private",
+      "category": "University-type",
+      "address": "Estonská 500, Prague 10",
+      "website": "https://www.vsfs.cz",
+      "has_faculties": true,
+      "faculty_count": 2,
+      "unit_count": 2,
+      "faculties": [
+        {
+          "name": "Faculty of Economic Studies",
+          "abbreviation": "FES",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        },
+        {
+          "name": "Faculty of Legal and Administrative Studies",
+          "abbreviation": "FPSS",
+          "city": "Prague",
+          "unit_type": "Faculty"
+        }
+      ],
+      "note": "Faculties listed in the VŠFS Annual Report 2025. Study centres also in Karlovy Vary and Most."
+    },
+    {
+      "name": "Metropolitan University Prague",
+      "abbreviation": "MUP",
+      "type": "Private",
+      "category": "University-type",
+      "address": "Dubečská 900/10, Prague 10",
+      "website": "https://www.mup.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 10,
+      "faculties": [
+        {
+          "name": "Department of Asian Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Tourism",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Foreign Languages",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Financial Management",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of International Relations and European Studies (EN)",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of International Business",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Media Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of International Relations and European Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Political Science and Anglophone Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Law and Public Administration",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "No faculties – 10 departments (per MUP Annual Report 2023)."
+    },
+    {
+      "name": "CEVRO University",
+      "abbreviation": "CEVRO",
+      "type": "Private",
+      "category": "University-type",
+      "address": "Jungmannova 17, Prague 1",
+      "website": "https://www.cevro.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 5,
+      "faculties": [
+        {
+          "name": "Department of Public Law and Public Administration",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Private Law",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Security Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Political Science",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Economics",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "Called CEVRO Institute until 16 Jan 2025. No faculties – departments (per Annual Report 2024). Also a site in Český Krumlov."
+    },
+    {
+      "name": "AMBIS University",
+      "abbreviation": "AMBIS",
+      "type": "Private",
+      "category": "University-type",
+      "address": "Lindnerova 575/1, Prague 8",
+      "website": "https://www.ambis.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "Institute of Security Management",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Institute / Centre"
+        },
+        {
+          "name": "Institute of Tourism",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Institute / Centre"
+        },
+        {
+          "name": "Centre of Excellence CEDUT",
+          "abbreviation": "CEDUT",
+          "city": "Prague",
+          "unit_type": "Institute / Centre"
+        }
+      ],
+      "note": "Called AMBIS College until 12 May 2026. No faculties – institutes (per Annual Report 2025). Branches in Brno and Bratislava."
+    },
+    {
+      "name": "Anglo-American University",
+      "abbreviation": "AAU",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Letenská 120/5, Prague 1",
+      "website": "https://www.aauni.edu",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "School of Business",
+          "abbreviation": "SBu",
+          "city": "Prague",
+          "unit_type": "School"
+        },
+        {
+          "name": "School of Arts, Humanities and Social Sciences",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "School"
+        },
+        {
+          "name": "School of International Relations and Diplomacy",
+          "abbreviation": "SIRD",
+          "city": "Prague",
+          "unit_type": "School"
+        }
+      ],
+      "note": "Divided into 'Schools' (similar to faculties/departments), per Annual Report 2025."
+    },
+    {
+      "name": "University of New York in Prague",
+      "abbreviation": "UNYP",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Londýnská 41, Prague 2",
+      "website": "https://www.unyp.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "School of Business and IT",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "School"
+        },
+        {
+          "name": "School of Psychology",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "School"
+        },
+        {
+          "name": "School of International Relations and Media Studies",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "School"
+        }
+      ],
+      "note": "Divided into academic 'Schools'."
+    },
+    {
+      "name": "University of Economics and Management",
+      "abbreviation": "VŠEM",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Nárožní 2600/9a, Prague 5",
+      "website": "https://www.vsem.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 5,
+      "faculties": [
+        {
+          "name": "Business Economics Department",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Economics Department",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Human Resources Department",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Management Department",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Marketing Department",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "No faculties. Departments as listed on the VŠEM English website."
+    },
+    {
+      "name": "Prague School of Creative Communication",
+      "abbreviation": "VŠKK",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Na Pankráci 420/54, Prague 4",
+      "website": "https://www.vskk.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 5,
+      "faculties": [
+        {
+          "name": "Department of Marketing Communications",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Visual Arts",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Graphic and Media Design Studio",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Animation and VFX Studio",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Photography and Audiovisual Studio",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Studio"
+        }
+      ],
+      "note": "No faculties – 2 departments and 3 studios (per Annual Report 2025)."
+    },
+    {
+      "name": "Medical College",
+      "abbreviation": "VŠZ",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Duškova 7, Prague 5",
+      "website": "https://www.vszdrav.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 5,
+      "faculties": [
+        {
+          "name": "Department of Nursing",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Midwifery",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Paramedic Science",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Physiotherapy",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Lifelong Learning",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "No faculties – departments (per Annual Report 2024)."
+    },
+    {
+      "name": "United University (Prague)",
+      "abbreviation": "UCP",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Prague 5",
+      "website": "https://www.ucp.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 7,
+      "faculties": [
+        {
+          "name": "Department of Marketing",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Economics",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Political and Social Sciences",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of International Relations and Diplomacy",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Management",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Department of Languages",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        },
+        {
+          "name": "Institute of International Management and Marketing",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Institute / Centre"
+        }
+      ],
+      "note": "Formerly Institute of Hospitality Management in Prague 8 / University College Prague. Departments per Annual Report 2023 (under the former name). Very small number of students."
+    },
+    {
+      "name": "College of Physical Education and Sport Palestra",
+      "abbreviation": "PALESTRA",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Slovačíkova 400/1, Prague 9",
+      "website": "https://www.palestra.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 1,
+      "faculties": [
+        {
+          "name": "Department of Sport and Outdoor Activities",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Department"
+        }
+      ],
+      "note": "No faculties. Department taken from the Czech university sports association directory; no other departments found in public sources."
+    },
+    {
+      "name": "Architectural Institute in Prague",
+      "abbreviation": "ARCHIP",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Prague 2",
+      "website": "https://www.archip.eu",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "Architectural Design (AD) Studio – vertical studios",
+          "abbreviation": "AD",
+          "city": "Prague",
+          "unit_type": "Studio"
+        },
+        {
+          "name": "Bachelor programme Architecture",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        },
+        {
+          "name": "Master programme Architecture and Urbanism",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        }
+      ],
+      "note": "Small school without faculties or departments – teaching in vertical design studios."
+    },
+    {
+      "name": "Art & Design Institute",
+      "abbreviation": "ADI",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Slezská 68, Prague 3",
+      "website": "https://www.adi.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 6,
+      "faculties": [
+        {
+          "name": "Painting",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Creative specialisation"
+        },
+        {
+          "name": "Graphics",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Creative specialisation"
+        },
+        {
+          "name": "Photography",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Creative specialisation"
+        },
+        {
+          "name": "Space / Interior Design",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Creative specialisation"
+        },
+        {
+          "name": "Intermedia",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Creative specialisation"
+        },
+        {
+          "name": "Multimedia",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Creative specialisation"
+        }
+      ],
+      "note": "No faculties or departments – one bachelor's programme with 6 creative specialisations."
+    },
+    {
+      "name": "Prague College of Psychosocial Studies",
+      "abbreviation": "PVŠPS",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "Hekrova 805, Prague 4",
+      "website": "https://www.pvsps.cz",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 2,
+      "faculties": [
+        {
+          "name": "Psychology (BA + MA)",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        },
+        {
+          "name": "Social Work with focus on Communication and Applied Psychotherapy",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        }
+      ],
+      "note": "No faculties or departments published – study programmes listed instead (per National Accreditation Bureau report)."
+    },
+    {
+      "name": "Unicorn University",
+      "abbreviation": "UU",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "V Kapslovně 2767/2, Prague 3",
+      "website": "https://unicornuniversity.net",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 3,
+      "faculties": [
+        {
+          "name": "Software Development (BA)",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        },
+        {
+          "name": "Business Management (BA)",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        },
+        {
+          "name": "Applied Economics and Data Analysis (MA)",
+          "abbreviation": "",
+          "city": "Prague",
+          "unit_type": "Study programme"
+        }
+      ],
+      "note": "Called Unicorn College until 2020. No faculties or departments published – study programmes listed instead."
+    },
+    {
+      "name": "NEWTON University",
+      "abbreviation": "NU",
+      "type": "Private",
+      "category": "Non-university type",
+      "address": "5. května 1640/65, Prague 4",
+      "website": "https://www.newton.university",
+      "has_faculties": false,
+      "faculty_count": 0,
+      "unit_count": 2,
+      "faculties": [
+        {
+          "name": "Economics and Management (BA + MA)",
+          "abbreviation": "",
+          "city": "Prague / Brno",
+          "unit_type": "Study programme"
+        },
+        {
+          "name": "Business Leadership (BA)",
+          "abbreviation": "",
+          "city": "Prague / Brno",
+          "unit_type": "Study programme"
+        }
+      ],
+      "note": "Formerly NEWTON College. No faculties or departments published – study programmes listed instead."
+    }
+  ]
+}
